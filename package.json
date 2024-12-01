@@ -1,0 +1,11 @@
+{
+  "name": "discord_bot_foolosophers_circle",
+  "version": "1.0.0",
+  "description": "a personal asstitant bot for inner circle members of foolsophers circle members( will be handling basic tasks scheduling virtual meetups, daily accouuntability)",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
