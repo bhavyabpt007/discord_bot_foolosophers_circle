@@ -15,4 +15,10 @@ client.on('messageCreate', (message) => {
     }
 });
 
+client.on('messageCreate', (message) => {
+    if (message.content === '!next meetup') {
+        message.channel.send('Im not programmed yet to answer that, but from what I know its 14 december 2024');
+    }
+});
+
 client.login(TOKEN);
